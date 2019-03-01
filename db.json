@@ -8,9 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "gauge": [
     { "id": 1, "value": 30 },
     { "id": 2, "value": 60 },
